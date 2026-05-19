@@ -1,0 +1,10 @@
+1A4T
+1C9S
+1ETF
+1ETG
+.
+.
+.
+.
+.
+Add one PDB ID per line.
